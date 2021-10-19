@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BorderRadiusPrev } from './BorderRadiusPrev'
-import './index.css';
+import { BorderRadiusApp } from './component/BorderRadiusApp';
 
 
 ReactDOM.render(
-  <BorderRadiusPrev />, document.getElementById('root')
+  <BorderRadiusApp />, document.getElementById('root')
 );

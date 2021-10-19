@@ -1,4 +1,11 @@
 
+
+body {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .flex-container{
   display: flex;
   flex-direction: row;
